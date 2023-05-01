@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp Lab- Objects all the way down", "Csharp Lab- Objects all the way down\Csharp Lab- Objects all the way down.csproj", "{1616F8F7-5762-4A42-BD8D-EFD9C5E8FFDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1616F8F7-5762-4A42-BD8D-EFD9C5E8FFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1616F8F7-5762-4A42-BD8D-EFD9C5E8FFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1616F8F7-5762-4A42-BD8D-EFD9C5E8FFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1616F8F7-5762-4A42-BD8D-EFD9C5E8FFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E692A2C-7C27-43B2-AB3A-E4DAE47C88F3}
+	EndGlobalSection
+EndGlobal
